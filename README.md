@@ -1,1 +1,5 @@
-# Architecture---Assignment-2
+## ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΠΡΟΗΓΜΕΝΩΝ ΥΠΟΛΟΓΙΣΤΩΝ
+
+### 2η Εργαστηριακή Άσκηση
+#### Design Space Exploration με τον gem5
+
