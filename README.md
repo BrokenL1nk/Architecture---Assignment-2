@@ -107,12 +107,17 @@
 Κάπως έτσι, κατασκευάσαμε μια συνάρτηση κόστους για το κάθε benchmark, όπου κάθε παράμετρος έχει κι από έναν συντελεστή βαρύτητας (που είναι το ποσοστό το οποίο θεωρήσαμε αυθαίρετα).
 
 Οι συναρτήσεις κόστους είναι:
+<<<<<<< HEAD
+
+* **401.bzip2**: 
+=======
+>>>>>>> 30cdd291ca372fb0a60253b7f8fcd043f73a69f6
 
 * **401.bzip2**: 
 
-
 ### ΠΗΓΕΣ
 
+<<<<<<< HEAD
 Οι πηγές από τις οποίες αντλήσαμε πληροφορίες είναι:
 
 1. [https://www.gem5.org/documentation/learning_gem5/part1/cache_config/](https://www.gem5.org/documentation/learning_gem5/part1/cache_config/)
@@ -121,4 +126,15 @@
 4. [https://www.gatevidyalay.com/cache-line-cache-line-size-cache-memory/](https://www.gatevidyalay.com/cache-line-cache-line-size-cache-memory/)
 5. [http://home.ku.edu.tr/comp303/public_html/Lecture15.pdf](http://home.ku.edu.tr/comp303/public_html/Lecture15.pdf)
 6. [https://en.wikipedia.org/wiki/Cycles_per_instruction](https://en.wikipedia.org/wiki/Cycles_per_instruction)
+=======
+### ΠΗΓΕΣ
 
+Οι πηγές από τις οποίες αντλήσαμε πληροφορίες είναι:
+>>>>>>> 30cdd291ca372fb0a60253b7f8fcd043f73a69f6
+
+1. [https://www.gem5.org/documentation/learning_gem5/part1/cache_config/](https://www.gem5.org/documentation/learning_gem5/part1/cache_config/)
+2. [http://learning.gem5.org/book/part1/example_configs.html](http://learning.gem5.org/book/part1/example_configs.html)
+3. [http://csillustrated.berkeley.edu/PDFs/handouts/cache-3-associativity-handout.pdf](http://csillustrated.berkeley.edu/PDFs/handouts/cache-3-associativity-handout.pdf)
+4. [https://www.gatevidyalay.com/cache-line-cache-line-size-cache-memory/](https://www.gatevidyalay.com/cache-line-cache-line-size-cache-memory/)
+5. [http://home.ku.edu.tr/comp303/public_html/Lecture15.pdf](http://home.ku.edu.tr/comp303/public_html/Lecture15.pdf)
+6. [https://en.wikipedia.org/wiki/Cycles_per_instruction](https://en.wikipedia.org/wiki/Cycles_per_instruction)
