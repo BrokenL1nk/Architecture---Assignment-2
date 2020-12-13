@@ -147,6 +147,7 @@
 4. [https://www.gatevidyalay.com/cache-line-cache-line-size-cache-memory/](https://www.gatevidyalay.com/cache-line-cache-line-size-cache-memory/)
 5. [http://home.ku.edu.tr/comp303/public_html/Lecture15.pdf](http://home.ku.edu.tr/comp303/public_html/Lecture15.pdf)
 6. [https://en.wikipedia.org/wiki/Cycles_per_instruction](https://en.wikipedia.org/wiki/Cycles_per_instruction)
+7. [https://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-theyre-an-essential-part-of-modern-chips](https://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-theyre-an-essential-part-of-modern-chips)
 
 ***
 
