@@ -4,7 +4,7 @@
 
 #### Design Space Exploration με τον gem5 
 
-**Βήμα 1ο**
+### Βήμα 1ο
 
 **1.** Από τα config.ini αρχεία του κάθε benchmark, βλέπουμε στο Line 15 ότι το μέγεθος της cache line είναι  **cache\_line_size=64**.  Όσον αφορά τα associativities των cache memories, έχουμε:
 
